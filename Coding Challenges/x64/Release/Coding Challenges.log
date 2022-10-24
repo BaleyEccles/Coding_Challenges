@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\baley.eccles.00\OneDrive - Department of Education\2022\computing 2 (game design)\Game Design\Coding Challenges\Coding Challenges\Src\Main.cpp(481,15): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\baley.eccles.00\OneDrive - Department of Education\2022\computing 2 (game design)\Game Design\Coding Challenges\Coding Challenges\Src\Main.cpp(528,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 296 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Coding Challenges.vcxproj -> C:\Users\baley.eccles.00\OneDrive - Department of Education\2022\computing 2 (game design)\Game Design\Coding Challenges\x64\Release\Coding Challenges.exe
